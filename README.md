@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+ЧТО_ТО ПИШУ# Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
